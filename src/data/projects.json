@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Netflix-clone",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the react components.",
+      "skills": ["React", "Javascript", "Database interaction"],
+      "demo": "https://netflix-react.netlify.app",
+      "source": "https://github.com/Koradiya-hardi/Netflix-Clone"
+    },
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn Javascript and Scss.",
+      "skills": ["Javascript", "Sass"," HTMl" , "CSS"],
+      "demo": "https://hardi-koradiya-fb85c5.netlify.app",
+      "source": "https://github.com/Koradiya-hardi/Portfolio-website"
+    },
+    {
+      "title": "OpenBoard clone",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the socket connection .",
+      "skills": [ "Javascript", "Socket io"],
+      "demo": "https://whimsical-jelly-4a9e14.netlify.app",
+      "source": "https://github.com/Koradiya-hardi/Open-board"
+    }
+  ]

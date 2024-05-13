@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Frontend intern",
+      "organisation": "Kode Ux ",
+      "startDate": "July, 2023",
+      "endDate": "Sept 2023",
+      "experiences": ["Worked on Responsive web designs", "Learnt JavaScript Advanced"],
+      "imageSrc": "history/Kodeux.png"
+    },
+    {
+      "role": "React Intern",
+      "organisation": "Aim Inforcorp",
+      "startDate": "May, 2023",
+      "endDate": "June, 2023",
+      "experiences": ["Worked on Parallex Effect ", "Designed the Parllax website", "Learnt react.js"],
+      "imageSrc": "history/Aim.png"
+    }
+    
+  ]
+  
